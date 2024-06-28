@@ -20,7 +20,3 @@ Classify sports personalities (Kapil Dev, Mary Kom, Saina Nehwal, Smriti Mandhan
 - Python Flask for HTTP server
 - HTML/CSS/JavaScript for UI
 
-## Installation Instructions
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/Rajasree-Varakala/repository.git
