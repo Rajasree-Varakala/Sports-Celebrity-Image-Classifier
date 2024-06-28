@@ -1,0 +1,6 @@
+PyWavelet
+joblib
+numpy
+scikit-learn
+opencv-python
+seaborn
