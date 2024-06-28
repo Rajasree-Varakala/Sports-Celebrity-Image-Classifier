@@ -1,4 +1,4 @@
-![alt text](<Screenshot 2024-06-28 024931.png>)
+![alt text](<Screenshot 2024-06-28 024759.png>)
 # Sports Personalities Classification Project
 
 ## Description
