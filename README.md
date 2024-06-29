@@ -1,6 +1,6 @@
 # Sports Personalities Classification Project
 
-<video controls src="Recording of Image Classification Project.mp4" title="Title"></video>
+https://github.com/Rajasree-Varakala/Sports-Celebrity-Image-Classifier/assets/165568577/4b79056a-8d30-4aec-b078-d019a2eabcd1
 
 ## Description
 Classify sports personalities (Kapil Dev, Mary Kom, Saina Nehwal, Smriti Mandhana, Virat Kohli) using Python.
